@@ -10,3 +10,5 @@ in an executable environment, making your code immediately reproducible by anyon
 
 It can also be used in combination with [Thebe](https://github.com/minrk/thebelab)
 to turn C++ code snippets in static html pages into live cells.
+
+https://mybinder.org/v2/gh/chris27GE/xeus-cling-binder-env/master
