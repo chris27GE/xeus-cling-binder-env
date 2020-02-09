@@ -14,3 +14,8 @@ to turn C++ code snippets in static html pages into live cells.
 https://mybinder.org/v2/gh/chris27GE/xeus-cling-binder-env/master
 
 https://hub.gke.mybinder.org/user/chris27ge-xeus-cling-binder-env-ikgdtd5o/tree#notebooks
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chris27GE/xeus-cling-binder-env/master)
+
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/chris27GE/xeus-cling-binder-env/master
