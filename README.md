@@ -12,3 +12,5 @@ It can also be used in combination with [Thebe](https://github.com/minrk/thebela
 to turn C++ code snippets in static html pages into live cells.
 
 https://mybinder.org/v2/gh/chris27GE/xeus-cling-binder-env/master
+
+https://hub.gke.mybinder.org/user/chris27ge-xeus-cling-binder-env-ikgdtd5o/tree#notebooks
